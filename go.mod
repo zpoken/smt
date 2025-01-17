@@ -1,4 +1,4 @@
-module github.com/celestiaorg/smt
+module github.com/zpoken/smt
 
 go 1.23
 
